@@ -1,5 +1,5 @@
 Hi, I'm ImSamhel
-- I’m a Software Engineer at day adn a hobbyist at night
+- I’m a Software Engineer at day and a hobbyist at night
 - Striving to never write or touch spaghetti code 
 - I really like Cyberpunk-style UIs
 - My main domains are java and kotlin, but
